@@ -87,3 +87,7 @@ class Player {
         return(PlayerName);
     }
 }
+
+class Board {
+    
+}
